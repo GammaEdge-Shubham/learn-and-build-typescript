@@ -83,6 +83,11 @@ Practiced commonly used Linux terminal commands essential for daily development 
 - `Pick<T, K>`
 - `Omit<T, K>`
 - `Record<K, T>`
+- `Exclude<U, EM>`
+- `Extract<T,U>`
+- `NonNullable<T>`
+- `Parameters<T>`
+- `ConstructorParameters<T>`
 
 ---
 
